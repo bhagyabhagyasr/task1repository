@@ -8,5 +8,6 @@ while num>0:
 if temp==rev:
 	print("The number is pallindrome")
 else:
+	print("palindrome is enterd number equal to reverse number")
 	print("The number is not pallindrome")
 	
